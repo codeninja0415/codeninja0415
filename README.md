@@ -8,7 +8,7 @@ Frontend // Backend // Whatever ✨
 Hi,👋🏽 I'm Code Ninja, a Full-Stack Developer 🚀, currently, I develop website using Typescript, React.js, Redux, Next.js, web3.js, Vue.js, Express, Node.js, Laravel, ROR and etc.
 I have developed many successful sites so far with mentioned skills.
 
-####      ![](https://img.shields.io/badge/Typescript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/React-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Next-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Laravel-%3C%2F%3E-blueviolet) (https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![] ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
+####      ![](https://img.shields.io/badge/Typescript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/React-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Next-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Laravel-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
 **Talking about Personal Stuffs:**
 
