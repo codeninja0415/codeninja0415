@@ -30,12 +30,7 @@ I have developed many successful sites so far with mentioned skills.
         <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="java" height="36"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="kotlin" height="36"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="golang" height="36"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="android" height="36"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" alt="golang" height="36"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" alt="golang" height="36"></td>
-        <td><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="golang" height="36"></td>
-        <td><img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" alt="golang" height="36"></td>
-        <td><img src="https://www.pngall.com/wp-content/uploads/10/PancakeSwap-Crypto-Logo-PNG.png" alt="golang" height="36"></td>
     </tr>
 </table>
 
