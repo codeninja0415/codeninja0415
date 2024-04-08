@@ -5,10 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend // Backend // Whatever ✨
 -------------------------------------------
 
-Hi,👋🏽 I'm Code Ninja, a Full-Stack and Blockchain Developer 🚀, currently, I have rich experience with MERN Stack, Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I develop website using Typescript, React.js, Redux, Next.js, web3.js, Vue.js, Express, Node.js, Laravel and etc.
+Hi,👋🏽 I'm Code Ninja, a Full-Stack Developer 🚀, currently, I develop website using Typescript, React.js, Redux, Next.js, web3.js, Vue.js, Express, Node.js, Laravel, ROR and etc.
 I have developed many successful sites so far with mentioned skills.
 
-####      ![](https://img.shields.io/badge/Typescript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/React-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Next-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Laravel-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
+####      ![](https://img.shields.io/badge/Typescript-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/React-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Next-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Laravel-%3C%2F%3E-blueviolet) (https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![] ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
 **Talking about Personal Stuffs:**
 
