@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 <br/>
 
-Frontend // Backend // Blockchain // Whatever ✨
+Frontend // Backend // Whatever ✨
 -------------------------------------------
 
 Hi,👋🏽 I'm Code Ninja, a Full-Stack and Blockchain Developer 🚀, currently, I have rich experience with MERN Stack, Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I develop website using Typescript, React.js, Redux, Next.js, web3.js, Vue.js, Express, Node.js, Laravel and etc.
